@@ -1,7 +1,0 @@
-Buen día ingeniero, aquí el link de descarga directo a el proyecto que nos ha solitado, el motivo por
-el que es enviado por esta manera se debe a varios conflictos que nos ha generado Git para subir el 
-proyecto al repositorio, y el propio github no permite la carga directa de archivos que pesen mas de 
-25mb, por lo que nos vimos obligados a utilizar google drive para dicho proceso, de antemano una 
-disculpa por el inconveniente y esperamos su comprensión.
-
-https://drive.google.com/file/d/1cQvWU0BfpZAdAUaAPQNT2kmYUu43qhe8/view?usp=share_link
